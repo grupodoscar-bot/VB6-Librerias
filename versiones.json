@@ -1,22 +1,88 @@
 {
-  "Ficheros": {
-    "Tbai.dll": {
-      "Version": "29.12.25.0",
-      "Url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai.dll",
-      "UrlTlb": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai.tlb"
-    },
-    "Verifactu.dll": {
-      "Version": "1.0.6.3",
-      "Url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Verifactu.dll",
-      "UrlTlb": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Verifactu.tlb"
-    },
-    "CorreoCore.dll": {
-      "Version": "1.00.0019",
-      "Url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/CorreoCore.dll"
-    },
-    "VBFLXGRD18.OCX": {
-      "Version": "1.08.0033",
-      "Url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/VBFLXGRD18.OCX"
-    }
-  }
+    "Ficheros":  {
+                     "Tbai.dll":  {
+                                      "Version":  "29.12.25.0",
+                                      "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Tbai.dll",
+                                      "UrlTlb":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Tbai.tlb",
+                                      "Extras":  [
+                                                     {
+                                                         "Fichero":  "FirmaXadesNet.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/FirmaXadesNet.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "Microsoft.Xades.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Microsoft.Xades.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "BouncyCastle.Crypto.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/BouncyCastle.Crypto.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "itextsharp.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/itextsharp.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "RestSharp.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/RestSharp.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "Security.Cryptography.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Security.Cryptography.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "Newtonsoft.Json.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Newtonsoft.Json.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "Microsoft.Bcl.AsyncInterfaces.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Microsoft.Bcl.AsyncInterfaces.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "System.Buffers.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/System.Buffers.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "System.Memory.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/System.Memory.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "System.Numerics.Vectors.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/System.Numerics.Vectors.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "System.Runtime.CompilerServices.Unsafe.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/System.Runtime.CompilerServices.Unsafe.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "System.Text.Encodings.Web.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/System.Text.Encodings.Web.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "System.Text.Json.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/System.Text.Json.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "System.Threading.Tasks.Extensions.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/System.Threading.Tasks.Extensions.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "System.ValueTuple.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/System.ValueTuple.dll"
+                                                     }
+                                                 ]
+                                  },
+                     "Verifactu.dll":  {
+                                           "Version":  "1.0.6.3",
+                                           "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Verifactu.dll",
+                                           "UrlTlb":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Verifactu.tlb"
+                                       },
+                     "CorreoCore.dll":  {
+                                            "Version":  "1.00.0019",
+                                            "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/CorreoCore.dll"
+                                        },
+                     "VBFLXGRD18.OCX":  {
+                                            "Version":  "1.08.0033",
+                                            "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/VBFLXGRD18.OCX"
+                                        }
+                 }
 }
