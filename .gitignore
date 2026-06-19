@@ -1,0 +1,4 @@
+# Nada de temporales
+*.tmp
+Thumbs.db
+desktop.ini

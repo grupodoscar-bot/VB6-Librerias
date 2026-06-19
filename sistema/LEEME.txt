@@ -1,0 +1,1 @@
+﻿# Coloca aquí los OCX/DLL redistribuibles de Windows para reparar registros caídos.

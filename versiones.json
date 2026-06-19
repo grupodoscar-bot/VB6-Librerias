@@ -1,0 +1,22 @@
+{
+  "Ficheros": {
+    "Tbai.dll": {
+      "Version": "29.12.25.0",
+      "Url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai.dll",
+      "UrlTlb": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai.tlb"
+    },
+    "Verifactu.dll": {
+      "Version": "1.0.6.3",
+      "Url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Verifactu.dll",
+      "UrlTlb": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Verifactu.tlb"
+    },
+    "CorreoCore.dll": {
+      "Version": "1.00.0019",
+      "Url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/CorreoCore.dll"
+    },
+    "VBFLXGRD18.OCX": {
+      "Version": "1.08.0033",
+      "Url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/VBFLXGRD18.OCX"
+    }
+  }
+}
