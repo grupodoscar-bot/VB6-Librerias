@@ -92,6 +92,16 @@
                                                   "Version":  "2.03.0005",
                                                   "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/cgactivexcontrol.ocx"
                                               },
+                     "CKEasyV2.dll":  {
+                                          "Version":  "17.05.0025",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/CKEasyV2.dll",
+                                          "Extras":  [
+                                                         {
+                                                             "Fichero":  "CKEasy.dll",
+                                                             "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/CKEasy.dll"
+                                                         }
+                                                     ]
+                                      },
                      "COMCT232.OCX":  {
                                           "Version":  "6.00.8022",
                                           "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/COMCT232.OCX"
@@ -183,10 +193,6 @@
                      "XceedZip.dll":  {
                                           "Version":  "6.1.7368.0",
                                           "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/XceedZip.dll"
-                                      },
-                     "CKEasyV2.dll":  {
-                                          "Version":  "17.05.0025",
-                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/CKEasyV2.dll"
                                       }
                  }
 }
