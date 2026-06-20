@@ -183,6 +183,10 @@
                      "XceedZip.dll":  {
                                           "Version":  "6.1.7368.0",
                                           "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/XceedZip.dll"
+                                      },
+                     "CKEasyV2.dll":  {
+                                          "Version":  "17.05.0025",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/CKEasyV2.dll"
                                       }
                  }
 }
