@@ -6,20 +6,28 @@
                                       "UrlTlb":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Tbai.tlb",
                                       "Extras":  [
                                                      {
+                                                         "Fichero":  "BouncyCastle.Crypto.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/BouncyCastle.Crypto.dll"
+                                                     },
+                                                     {
                                                          "Fichero":  "FirmaXadesNet.dll",
                                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/FirmaXadesNet.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "itextsharp.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/itextsharp.dll"
+                                                     },
+                                                     {
+                                                         "Fichero":  "Microsoft.Bcl.AsyncInterfaces.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Microsoft.Bcl.AsyncInterfaces.dll"
                                                      },
                                                      {
                                                          "Fichero":  "Microsoft.Xades.dll",
                                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Microsoft.Xades.dll"
                                                      },
                                                      {
-                                                         "Fichero":  "BouncyCastle.Crypto.dll",
-                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/BouncyCastle.Crypto.dll"
-                                                     },
-                                                     {
-                                                         "Fichero":  "itextsharp.dll",
-                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/itextsharp.dll"
+                                                         "Fichero":  "Newtonsoft.Json.dll",
+                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Newtonsoft.Json.dll"
                                                      },
                                                      {
                                                          "Fichero":  "RestSharp.dll",
@@ -28,14 +36,6 @@
                                                      {
                                                          "Fichero":  "Security.Cryptography.dll",
                                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Security.Cryptography.dll"
-                                                     },
-                                                     {
-                                                         "Fichero":  "Newtonsoft.Json.dll",
-                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Newtonsoft.Json.dll"
-                                                     },
-                                                     {
-                                                         "Fichero":  "Microsoft.Bcl.AsyncInterfaces.dll",
-                                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/Tbai/Microsoft.Bcl.AsyncInterfaces.dll"
                                                      },
                                                      {
                                                          "Fichero":  "System.Buffers.dll",
@@ -83,6 +83,106 @@
                      "VBFLXGRD18.OCX":  {
                                             "Version":  "1.08.0033",
                                             "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/propias/VBFLXGRD18.OCX"
-                                        }
+                                        },
+                     "cgactivexapi.dll":  {
+                                              "Version":  "2.03.0005",
+                                              "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/cgactivexapi.dll"
+                                          },
+                     "cgactivexcontrol.ocx":  {
+                                                  "Version":  "2.03.0005",
+                                                  "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/cgactivexcontrol.ocx"
+                                              },
+                     "COMCT232.OCX":  {
+                                          "Version":  "6.00.8022",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/COMCT232.OCX"
+                                      },
+                     "COMCT332.OCX":  {
+                                          "Version":  "6.07.9782",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/COMCT332.OCX"
+                                      },
+                     "COMCTL32.OCX":  {
+                                          "Version":  "6.00.8105",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/COMCTL32.OCX"
+                                      },
+                     "COMDLG32.ocx":  {
+                                          "Version":  "6.01.9782",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/COMDLG32.ocx"
+                                      },
+                     "HookMenu.ocx":  {
+                                          "Version":  "1.04",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/HookMenu.ocx"
+                                      },
+                     "mail.ocx":  {
+                                      "Version":  "1.00",
+                                      "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/mail.ocx"
+                                  },
+                     "MSADODC.OCX":  {
+                                         "Version":  "6.01.9782",
+                                         "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/MSADODC.OCX"
+                                     },
+                     "MSCHRT20.OCX":  {
+                                          "Version":  "6.01.9816",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/MSCHRT20.OCX"
+                                      },
+                     "MSCOMCT2.OCX":  {
+                                          "Version":  "6.01.9816",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/MSCOMCT2.OCX"
+                                      },
+                     "MSCOMCTL.OCX":  {
+                                          "Version":  "6.01.9834",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/MSCOMCTL.OCX"
+                                      },
+                     "MSCOMM32.OCX":  {
+                                          "Version":  "6.00.8169",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/MSCOMM32.OCX"
+                                      },
+                     "MSDATGRD.OCX":  {
+                                          "Version":  "6.01.9782",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/MSDATGRD.OCX"
+                                      },
+                     "MSFLXGRD.OCX":  {
+                                          "Version":  "6.01.9814",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/MSFLXGRD.OCX"
+                                      },
+                     "MSINET.OCX":  {
+                                        "Version":  "6.01.9782",
+                                        "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/MSINET.OCX"
+                                    },
+                     "MSMAPI32.OCX":  {
+                                          "Version":  "6.00.8169",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/MSMAPI32.OCX"
+                                      },
+                     "MSWINSCK.OCX":  {
+                                          "Version":  "6.01.9817",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/MSWINSCK.OCX"
+                                      },
+                     "nBTN.ocx":  {
+                                      "Version":  "19.2208.0008",
+                                      "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/nBTN.ocx"
+                                  },
+                     "OSSMTP_Plus.tlb":  {
+                                             "Version":  "",
+                                             "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/OSSMTP_Plus.tlb"
+                                         },
+                     "PdfCom.dll":  {
+                                        "Version":  "1, 0, 0, 1",
+                                        "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/PdfCom.dll"
+                                    },
+                     "TABCTL32.OCX":  {
+                                          "Version":  "6.01.9782",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/TABCTL32.OCX"
+                                      },
+                     "threed32.ocx":  {
+                                          "Version":  "1.0.0041",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/threed32.ocx"
+                                      },
+                     "ubGrid.ocx":  {
+                                        "Version":  "1.02.0004",
+                                        "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/ubGrid.ocx"
+                                    },
+                     "XceedZip.dll":  {
+                                          "Version":  "6.1.7368.0",
+                                          "Url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-Librerias/main/sistema/XceedZip.dll"
+                                      }
                  }
 }

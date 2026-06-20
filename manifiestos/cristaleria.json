@@ -1,8 +1,96 @@
 {
     "Programa":  "cristaleria",
     "Exe":  "cristal.exe",
-    "Generado":  "2026-06-19 22:37:40",
+    "Generado":  "2026-06-20 21:26:05",
     "Librerias":  [
+                      {
+                          "Nombre":  "DAO 3.6 (motor de BD)",
+                          "Fichero":  "dao360.dll",
+                          "Tlb":  "",
+                          "Guid":  "{00025E01-0000-0000-C000-000000000046}",
+                          "Clsid":  "",
+                          "VerTypeLib":  "5.0",
+                          "Bloque":  "sistema",
+                          "Metodo":  "comprobar",
+                          "Ruta":  ""
+                      },
+                      {
+                          "Nombre":  "OLE Automation",
+                          "Fichero":  "stdole2.tlb",
+                          "Tlb":  "",
+                          "Guid":  "{00020430-0000-0000-C000-000000000046}",
+                          "Clsid":  "",
+                          "VerTypeLib":  "2.0",
+                          "Bloque":  "sistema",
+                          "Metodo":  "comprobar",
+                          "Ruta":  ""
+                      },
+                      {
+                          "Nombre":  "Scripting Runtime",
+                          "Fichero":  "scrrun.dll",
+                          "Tlb":  "",
+                          "Guid":  "{420B2830-E718-11CF-893D-00A0C9054228}",
+                          "Clsid":  "",
+                          "VerTypeLib":  "1.0",
+                          "Bloque":  "sistema",
+                          "Metodo":  "comprobar",
+                          "Ruta":  ""
+                      },
+                      {
+                          "Nombre":  "Windows Script Host",
+                          "Fichero":  "wshom.ocx",
+                          "Tlb":  "",
+                          "Guid":  "{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}",
+                          "Clsid":  "",
+                          "VerTypeLib":  "1.0",
+                          "Bloque":  "sistema",
+                          "Metodo":  "comprobar",
+                          "Ruta":  ""
+                      },
+                      {
+                          "Nombre":  "ADO 2.8",
+                          "Fichero":  "msado28.tlb",
+                          "Tlb":  "",
+                          "Guid":  "{2A75196C-D9EB-4129-B803-931327F72D5C}",
+                          "Clsid":  "",
+                          "VerTypeLib":  "2.8",
+                          "Bloque":  "sistema",
+                          "Metodo":  "comprobar",
+                          "Ruta":  ""
+                      },
+                      {
+                          "Nombre":  "MSBIND (Data Binding)",
+                          "Fichero":  "MSBIND.DLL",
+                          "Tlb":  "",
+                          "Guid":  "{56BF9020-7A2F-11D0-9482-00A0C91110ED}",
+                          "Clsid":  "",
+                          "VerTypeLib":  "1.0",
+                          "Bloque":  "sistema",
+                          "Metodo":  "comprobar",
+                          "Ruta":  ""
+                      },
+                      {
+                          "Nombre":  "Microsoft Word (Office)",
+                          "Fichero":  "MSWORD.OLB",
+                          "Tlb":  "",
+                          "Guid":  "{00020905-0000-0000-C000-000000000046}",
+                          "Clsid":  "",
+                          "VerTypeLib":  "8.3",
+                          "Bloque":  "sistema",
+                          "Metodo":  "comprobar",
+                          "Ruta":  ""
+                      },
+                      {
+                          "Nombre":  "WMI Scripting",
+                          "Fichero":  "wbemdisp.TLB",
+                          "Tlb":  "",
+                          "Guid":  "{565783C6-CB41-11D1-8B02-00600806D9B6}",
+                          "Clsid":  "",
+                          "VerTypeLib":  "1.2",
+                          "Bloque":  "sistema",
+                          "Metodo":  "comprobar",
+                          "Ruta":  ""
+                      },
                       {
                           "Nombre":  "ieframe",
                           "Fichero":  "ieframe.dll",
@@ -46,6 +134,28 @@
                           "Bloque":  "propia",
                           "Metodo":  "regasm",
                           "Ruta":  "dll"
+                      },
+                      {
+                          "Nombre":  "MSXML 3.0",
+                          "Fichero":  "msxml3.dll",
+                          "Tlb":  "",
+                          "Guid":  "{F5078F18-C551-11D3-89B9-0000F81FE221}",
+                          "Clsid":  "",
+                          "VerTypeLib":  "3.0",
+                          "Bloque":  "sistema",
+                          "Metodo":  "comprobar",
+                          "Ruta":  ""
+                      },
+                      {
+                          "Nombre":  "VBScript RegExp",
+                          "Fichero":  "2",
+                          "Tlb":  "",
+                          "Guid":  "{3F4DACA7-160D-11D2-A8E9-00104B365C9F}",
+                          "Clsid":  "",
+                          "VerTypeLib":  "1.0",
+                          "Bloque":  "sistema",
+                          "Metodo":  "comprobar",
+                          "Ruta":  ""
                       },
                       {
                           "Nombre":  "Veri*Factu",
