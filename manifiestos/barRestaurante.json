@@ -220,7 +220,7 @@
                           "Clsid":  "",
                           "VerTypeLib":  "2.0",
                           "Bloque":  "propia",
-                          "Metodo":  "regasm",
+                          "Metodo":  "regsvr32",
                           "Ruta":  "dll"
                       },
                       {
