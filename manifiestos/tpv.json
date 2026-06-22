@@ -239,7 +239,7 @@
                           "Fichero":  "VBFLXGRD18.OCX",
                           "Tlb":  "",
                           "Guid":  "{67F721AC-DA0F-4EA5-93E0-891B294BA793}",
-                          "Clsid":  "",
+                          "Clsid":  "{5BA75CF4-F63C-4BC4-BA0E-160ED4991292}",
                           "VerTypeLib":  "1.0",
                           "Bloque":  "propia",
                           "Metodo":  "regsvr32",
