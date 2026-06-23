@@ -1,7 +1,7 @@
 {
     "Programa":  "taller",
     "Exe":  "taller.exe",
-    "Generado":  "2026-06-22 11:19:34",
+    "Generado":  "2026-06-23 14:52:05",
     "Librerias":  [
                       {
                           "Nombre":  "OLE Automation",
@@ -225,7 +225,7 @@
                       },
                       {
                           "Nombre":  "CKEasyV2",
-                          "Fichero":  "CKEasyV2.dll",
+                          "Fichero":  "CKeasyV2.dll",
                           "Tlb":  "",
                           "Guid":  "{DFA2B5C0-712F-401C-B08C-CF41C4C365FA}",
                           "Clsid":  "",
