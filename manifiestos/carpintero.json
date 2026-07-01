@@ -1,7 +1,7 @@
 {
     "Programa":  "carpintero",
     "Exe":  "carpintero.exe",
-    "Generado":  "2026-06-29 11:39:05",
+    "Generado":  "2026-07-01 18:21:30",
     "Librerias":  [
                       {
                           "Nombre":  "DAO 3.6 (motor de BD)",
