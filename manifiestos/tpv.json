@@ -1,7 +1,7 @@
 {
     "Programa":  "tpv",
     "Exe":  "tpv.exe",
-    "Generado":  "2026-07-15 14:11:26",
+    "Generado":  "2026-08-17 17:44:51",
     "Librerias":  [
                       {
                           "Nombre":  "DAO 3.6 (motor de BD)",
