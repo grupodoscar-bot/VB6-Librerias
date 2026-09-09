@@ -1,7 +1,7 @@
 {
     "Programa":  "peluqueria",
     "Exe":  "peluqueria.exe",
-    "Generado":  "2026-09-02 16:47:38",
+    "Generado":  "2026-09-09 16:53:43",
     "Librerias":  [
                       {
                           "Nombre":  "DAO 3.6 (motor de BD)",
