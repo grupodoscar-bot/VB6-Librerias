@@ -1,7 +1,7 @@
 {
     "Programa":  "cristaleria",
     "Exe":  "cristal.exe",
-    "Generado":  "2026-09-30 09:18:57",
+    "Generado":  "2026-10-19 11:11:14",
     "Librerias":  [
                       {
                           "Nombre":  "DAO 3.6 (motor de BD)",
@@ -114,15 +114,15 @@
                           "Ruta":  ""
                       },
                       {
-                          "Nombre":  "OstroSoft SMTP Component (Non-commercial license)",
-                          "Fichero":  "OSSMTP_Plus.tlb",
+                          "Nombre":  "CorreoCore",
+                          "Fichero":  "CorreoCore.dll",
                           "Tlb":  "",
-                          "Guid":  "{D9589E63-D17D-4544-B530-5A85902E830A}",
+                          "Guid":  "{E7CE8E3C-9235-49DF-BDCB-2B34BAFD4B01}",
                           "Clsid":  "",
-                          "VerTypeLib":  "7.0",
-                          "Bloque":  "sistema",
+                          "VerTypeLib":  "16.0",
+                          "Bloque":  "propia",
                           "Metodo":  "regsvr32",
-                          "Ruta":  ""
+                          "Ruta":  "dll"
                       },
                       {
                           "Nombre":  "TicketBAI (Tbai)",
@@ -334,10 +334,10 @@
                           "Ruta":  ""
                       },
                       {
-                          "Nombre":  "mail",
-                          "Fichero":  "mail.ocx",
+                          "Nombre":  "nBTN",
+                          "Fichero":  "nBTN.ocx",
                           "Tlb":  "",
-                          "Guid":  "{7C1A7C04-1571-4390-8302-BA83F3FA717E}",
+                          "Guid":  "{01184572-968E-4652-B5E9-659EDD2D6942}",
                           "Clsid":  "",
                           "VerTypeLib":  "1.0",
                           "Bloque":  "sistema",
@@ -345,10 +345,10 @@
                           "Ruta":  ""
                       },
                       {
-                          "Nombre":  "nBTN",
-                          "Fichero":  "nBTN.ocx",
+                          "Nombre":  "MSWINSCK",
+                          "Fichero":  "MSWINSCK.OCX",
                           "Tlb":  "",
-                          "Guid":  "{01184572-968E-4652-B5E9-659EDD2D6942}",
+                          "Guid":  "{248DD890-BB45-11CF-9ABC-0080C7E7B78D}",
                           "Clsid":  "",
                           "VerTypeLib":  "1.0",
                           "Bloque":  "sistema",
