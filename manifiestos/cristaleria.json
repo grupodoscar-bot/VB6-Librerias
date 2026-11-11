@@ -1,7 +1,7 @@
 {
     "Programa":  "cristaleria",
     "Exe":  "cristal.exe",
-    "Generado":  "2026-11-05 13:33:05",
+    "Generado":  "2026-11-11 13:40:42",
     "Librerias":  [
                       {
                           "Nombre":  "DAO 3.6 (motor de BD)",
