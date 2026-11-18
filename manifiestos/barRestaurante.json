@@ -1,7 +1,7 @@
 {
     "Programa":  "barRestaurante",
     "Exe":  "barrestaurante.exe",
-    "Generado":  "2026-11-18 14:37:51",
+    "Generado":  "2026-11-18 14:52:38",
     "Librerias":  [
                       {
                           "Nombre":  "DAO 3.6 (motor de BD)",
